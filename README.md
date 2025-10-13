@@ -1,7 +1,7 @@
 # ⚙️ settings-json
 
 Personalização completa da minha IDE **Cursor** (baseada no VS Code).  
-Este repositório contém meu arquivo `settings.json` com todas as configurações visuais, atalhos, extensões e ajustes que otimizam meu fluxo de trabalho diário como desenvolvedor full-stack. Ele reflete preferências por produtividade, estética clean e eficiência em projetos web, como e-commerces e integrações com APIs (ex: Stripe).
+Este repositório contém meu arquivo `settings.json` com todas as configurações visuais, atalhos, extensões e ajustes que otimizam meu fluxo de trabalho diário como desenvolvedor full-stack. Ele reflete preferências por produtividade, estética clean e eficiência em projetos web.
 
 O objetivo é compartilhar uma setup pronta para quem busca um ambiente moderno e focado – sinta-se à vontade para fork e adaptar!
 
@@ -110,6 +110,6 @@ Isso significa: Use, modifique, distribua livremente – apenas mantenha o aviso
 
 ## ✨ Nota Final
 
-Essas configurações são otimizadas para meu workflow em desenvolvimento web full-stack, com ênfase em e-commerce (como integrações Stripe e UX responsiva). Não é uma "one-size-fits-all" – experimente, ajuste (ex: mude o tema para Dracula se preferir) e faça sua IDE brilhar. Se ajudou, dê uma star no repo! 💻🚀
+Essas configurações são otimizadas para meu workflow em desenvolvimento web full-stack. Não é uma "one-size-fits-all" – experimente, ajuste (ex: mude o tema para Dracula se preferir) e faça sua IDE brilhar. Se ajudou, dê uma star no repo! 💻🚀
 
 **Atualizado em: Outubro 2025** – Qualquer dúvida, comente nas issues. Happy coding!
