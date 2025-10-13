@@ -80,7 +80,7 @@ Este projeto está sob a licença MIT — consulte o arquivo `LICENSE` para mais
 
 ## ✏️ Notas Finais
 
-Esse setup é algo pessoal — pode servir de base para você, mas sinta-se livre para adaptar conforme seu estilo de trabalho. Se quiser que eu gere também um arquivo `extensions.json` (para recomendar essas extensões automaticamente no VS Code), posso te auxiliar nisso também.
+Esse setup é algo pessoal — pode servir de base para você, mas sinta-se livre para adaptar conforme seu estilo de trabalho.
 
 ---
 
