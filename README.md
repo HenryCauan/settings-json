@@ -1,8 +1,3 @@
-Aqui está uma sugestão de **README.md** para o seu repositório **settings-json**, incluindo uma seção com as extensões que você usa diariamente:
-
----
-
-````md
 # settings-json
 
 Coleção do meu `settings.json` com personalizações para o VS Code  
@@ -89,8 +84,3 @@ Esse setup é algo pessoal — pode servir de base para você, mas sinta-se livr
 
 ---
 
-```
-
-Se quiser, posso já criar também o `extensions.json` com todas essas extensões e enviar para você. Você gostaria?
-::contentReference[oaicite:0]{index=0}
-```
