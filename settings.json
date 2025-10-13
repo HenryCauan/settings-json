@@ -1,0 +1,51 @@
+{
+  "files.autoSave": "afterDelay",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "symbols",
+  "workbench.colorTheme": "Vesper",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": true,
+  "workbench.navigationControl.enabled": false,
+  "workbench.sideBar.location": "right",
+  "editor.fontSize": 14,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.lineHeight": 1.8,
+  "workbench.startupEditor": "newUntitledFile",
+  // Mantém a linha de destaque apenas no editor
+  "editor.renderLineHighlight": "gutter",
+  // remove as linhas verticais no Explorer
+  "workbench.tree.renderIndentGuides": "none",
+  "editor.fontLigatures": false,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.semanticHighlighting.enabled": false,
+  "breadcrumbs.enabled": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "workbench.statusBar.visible": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.showTabs": "none",
+  "window.zoomLevel": -1,
+  "workbench.editor.editorActionsLocation": "hidden",
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.guides.indentation": true,
+  "workbench.colorCustomizations": {
+    // Linhas guias normais (todas as colunas de indentação)
+    "editorIndentGuide.background1": "#c9c9c90c",
+    // Linha guia ativa (nível do cursor)
+    "editorIndentGuide.activeBackground1": "#ffffff40"
+},
+"git.enableSmartCommit": true,
+"git.autofetch": true,
+"window.menuBarVisibility": "compact",
+"explorer.confirmDelete": false,
+"typescript.updateImportsOnFileMove.enabled": "always"
+  // Remove o efeito de hover nas listas (inclui Explorer)
+}
