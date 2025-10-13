@@ -45,7 +45,6 @@ Você pode aplicar essa configuração de duas formas:
 ### 🧩 1. **Pelo menu da IDE Cursor**
 1. Pressione `Ctrl + P`  
 2. Digite:  
-````
 
 > Preferences: Open Settings (JSON)
 
