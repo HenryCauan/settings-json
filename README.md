@@ -76,11 +76,4 @@ Você pode usar, adaptar e compartilhar livremente — apenas mantenha os crédi
 
 Essas configurações são pessoais e ajustadas para foco e estética moderna.  
 Use como base, adapte e construa sua própria experiência de desenvolvimento. 💻  
-Se quiser, posso gerar também um `extensions.json` com todas as extensões listadas — assim, o VS Code/Cursor sugerirá automaticamente a instalação delas.
 
----
-
-```
-
-Quer que eu crie agora o `extensions.json` (com os IDs exatos das extensões para importar automaticamente)?
-Assim quem clonar o repositório terá todas as recomendações prontas.
