@@ -54,9 +54,9 @@ No arquivo `settings.json` você encontrará:
 ## ✅ Como Usar
 
 1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/HenryCauan/settings-json.git
-````
+```
+  git clone https://github.com/HenryCauan/settings-json.git
+```
 
 2. Abra o VS Code e vá em **Arquivo → Preferências → Configurações** (ou use `Ctrl + ,`)
 3. Use a opção **"Abrir configurações JSON"**
