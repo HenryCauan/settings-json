@@ -48,36 +48,17 @@ Você pode aplicar essa configuração de duas formas:
 
 > Preferences: Open Settings (JSON)
 
-```
-3. Copie **todo o conteúdo** do arquivo `settings.json` deste repositório  
+3. Copie **Todo o conteúdo** do arquivo `settings.json` deste repositório  
 4. Cole no seu arquivo de configurações da Cursor  
 5. Salve e reinicie a IDE (ou recarregue a janela com `Ctrl + R`)
 
----
-
-### 🧠 2. **Copiando diretamente**
-1. Abra o arquivo:
-```
-
-File → Preferences → Settings → Abrir configurações JSON
-
-```
-2. Copie e cole o conteúdo do `settings.json` deste repositório diretamente.  
-3. Salve (`Ctrl + S`) e as configurações serão aplicadas automaticamente.
-
----
-
 ## 📂 Estrutura do Repositório
 
-```
-
-.
+``
 ├── settings.json     ← Arquivo principal com as configurações
 └── README.md          ← Este arquivo de explicação
+``
 
-```
-
----
 
 ## 🧑‍💻 Contribuições
 
