@@ -54,10 +54,8 @@ Você pode aplicar essa configuração de duas formas:
 
 ## 📂 Estrutura do Repositório
 
-``
 ├── settings.json     ← Arquivo principal com as configurações
 └── README.md          ← Este arquivo de explicação
-``
 
 
 ## 🧑‍💻 Contribuições
