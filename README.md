@@ -1,6 +1,6 @@
 # settings-json
 
-Coleção do meu `settings.json` com personalizações para o VS Code  
+Coleção do meu `settings.json` com personalizações para o VS Code ou Cursor  
 Contém ajustes, temas, atalhos e configurações que uso no dia a dia para manter foco e produtividade.
 
 ---
