@@ -51,16 +51,12 @@ O arquivo principal (`settings.json`) é o coração do repositório. Ele inclui
 
 Siga esses passos para aplicar as configs na sua Cursor (ou VS Code):
 
-### 🧩 1. **Via Menu da IDE (Recomendado para Iniciantes)**
+### 🧩 **Via Menu da IDE (Recomendado para Iniciantes)**
 1. Abra a Cursor e pressione `Ctrl + Shift + P` (ou `Cmd + Shift + P` no Mac).
 2. Digite e selecione: **Preferences: Open Settings (JSON)**.
 3. Copie todo o conteúdo do `settings.json` deste repositório.
 4. Cole substituindo o existente (faça backup do seu atual primeiro!).
 5. Salve e recarregue a janela (`Ctrl + Shift + P` > "Reload Window").
-
-### 💻 2. **Via Sync com Settings Sync (Avançado)**
-- Se usar GitHub para sync: Ative a extensão built-in "Settings Sync" na Cursor, faça upload das suas configs e importe via token.
-- Ou clone o repo e copie manualmente para `~/.cursor/User/settings.json` (ajuste o path no seu OS).
 
 **Compatibilidade:** Testado na Cursor v0.XX (base VS Code 1.XX). Pode conflitar com extensões existentes – resolva via UI.
 
