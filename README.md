@@ -1,7 +1,7 @@
 # ⚙️ settings-json
 
 Personalização completa da minha IDE **Cursor** (baseada no VS Code).  
-Este repositório contém meu arquivo `settings.json` com todas as configurações visuais, atalhos, extensões e ajustes que otimizam meu fluxo de trabalho diário como desenvolvedor full-stack. Ele reflete preferências por produtividade, estética clean e eficiência em projetos web.
+Este repositório contém meu arquivo `settings.json` com todas as configurações visuais, atalhos, extensões e ajustes que otimizam meu fluxo de trabalho diário como desenvolvedor full-stack. Ele reflete preferências por produtividade, estética clean e eficiência em projetos.
 
 O objetivo é compartilhar uma setup pronta para quem busca um ambiente moderno e focado – sinta-se à vontade para fork e adaptar!
 
@@ -46,20 +46,6 @@ O arquivo principal (`settings.json`) é o coração do repositório. Ele inclui
 - **Produtividade**: Error Lens para highlights inline; atalhos customizados (ex: Ctrl + Alt + F para formatar); Import Cost para monitoramento de imports.
 - **Usabilidade Geral**: Auto Rename Tag para HTML; Better Comments para anotações coloridas; desativações de telemetria desnecessária para privacidade.
 - **Outros Ajustes**: Zoom level, tab size (2 espaços), git integrations e suporte a emmet abreviado.
-
-Exemplo de trecho chave (do arquivo completo):
-```json
-{
-  "workbench.colorTheme": "Vesper",
-  "editor.fontFamily": "'Fira Code', Consolas, monospace",
-  "editor.formatOnSave": true,
-  "prettier.singleQuote": true,
-  "errorLens.enabled": true
-}
-```
-Essas configs economizam horas semanais – teste e veja!
-
----
 
 ## 🚀 Como Usar
 
