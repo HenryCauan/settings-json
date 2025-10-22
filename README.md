@@ -51,7 +51,7 @@ O arquivo principal (`settings.json`) é o coração do repositório. Ele inclui
 
 Siga esses passos para aplicar as configs na sua Cursor (ou VS Code):
 
-### 🧩 **Via Menu da IDE (Recomendado para Iniciantes)**
+### 🧩 **Via Menu da IDE**
 1. Abra a Cursor e pressione `Ctrl + Shift + P` (ou `Cmd + Shift + P` no Mac).
 2. Digite e selecione: **Preferences: Open Settings (JSON)**.
 3. Copie todo o conteúdo do `settings.json` deste repositório.
@@ -78,17 +78,6 @@ Adoro feedback! Se você tem sugestões de extensões (ex: para Tailwind CSS ou 
 - Abra uma **Issue** descrevendo o problema/melhoria.
 - Envie um **Pull Request** com mudanças no `settings.json` (mantenha compatibilidade retroativa).
 - Siga o código de conduta: Seja respeitoso e adicione testes visuais se possível.
-
-Vamos evoluir essa setup juntos! 🌟
-
----
-
-## 📄 Licença
-
-Distribuído sob a **Licença MIT**.  
-Isso significa: Use, modifique, distribua livremente – apenas mantenha o aviso de copyright e não me responsabilize por problemas. Veja o arquivo LICENSE para detalhes completos.
-
----
 
 ## ✨ Nota Final
 
