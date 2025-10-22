@@ -21,20 +21,6 @@ Aqui vai uma lista das extensões essenciais que instalo em todo setup novo. Ela
 | **Error Lens** | `usernamehw.errorlens` | Destaca erros, warnings e infos diretamente na linha de código, sem precisar abrir o terminal. |
 | **Min Theme – Theme Secondary** | `miguelsolorio.min-theme` | Tema alternativo minimalista para switches rápidos (ex: modo light em reuniões). |
 | **Better Comments** | `aaron-bond.better-comments` | Colore e categoriza comentários (! para alerts, // TODO para tarefas, ? para dúvidas) – organiza código legado. |
-
-> 💡 **Dica de Instalação Rápida:** Use o terminal integrado da Cursor/VS Code para instalar todas de uma vez:
-> ```bash
-> code --install-extension esbenp.prettier-vscode
-> code --install-extension vangware.symbols
-> code --install-extension drcidr.vscode-vesper
-> code --install-extension wix.vscode-import-cost
-> code --install-extension formulahendry.auto-rename-tag
-> code --install-extension usernamehw.errorlens
-> code --install-extension miguelsolorio.min-theme
-> code --install-extension aaron-bond.better-comments
-> ```
-> Após instalar, recarregue a janela (`Ctrl + Shift + P` > "Reload Window").
-
 ---
 
 ## 🔧 O Que Está Configurado no settings.json
@@ -71,13 +57,6 @@ Siga esses passos para aplicar as configs na sua Cursor (ou VS Code):
 ```
 
 ---
-
-## 🧑‍💻 Contribuições
-
-Adoro feedback! Se você tem sugestões de extensões (ex: para Tailwind CSS ou GitLens), novos atalhos ou fixes para bugs de compatibilidade:
-- Abra uma **Issue** descrevendo o problema/melhoria.
-- Envie um **Pull Request** com mudanças no `settings.json` (mantenha compatibilidade retroativa).
-- Siga o código de conduta: Seja respeitoso e adicione testes visuais se possível.
 
 ## ✨ Nota Final
 
