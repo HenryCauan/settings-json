@@ -9,7 +9,7 @@ O objetivo é compartilhar uma setup pronta para quem busca um ambiente moderno 
 
 ## 🧰 Extensões Usadas Diariamente
 
-Aqui vai uma lista das extensões essenciais que instalo em todo setup novo. Elas melhoram a formatação, visualização e depuração, reduzindo tempo gasto em tarefas repetitivas. Escolhi baseadas em uso real em projetos com JavaScript, React e Node.js.
+Aqui vai uma lista das extensões essenciais que instalo em todo setup novo. Elas melhoram a formatação, visualização e depuração, reduzindo tempo gasto em tarefas repetitivas.
 
 | Extensão | ID da Extensão (para instalação) | Função / Motivo |
 |----------|-----------------------------------|-----------------|
